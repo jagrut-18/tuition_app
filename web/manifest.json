@@ -1,6 +1,6 @@
 {
-    "name": "tution",
-    "short_name": "tution",
+    "name": "tution_student",
+    "short_name": "tution_student",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
